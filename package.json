@@ -1,12 +1,12 @@
 {
-  "name": "ah-learning-01",
+  "name": "cl-teaching-01",
   "version": "1.0.0",
   "description": "Introduction to Typescript",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amber (Corollax) Horky",
+  "author": "Chris \"Deveyus\" Londrie",
   "license": "LGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/ProgrammingClass-01/AH-Learning-01/issues"
